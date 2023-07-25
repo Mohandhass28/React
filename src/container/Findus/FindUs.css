@@ -1,0 +1,28 @@
+.app__findus-heading
+{
+    margin-bottom: 1rem;
+}
+
+.app__find-contect
+{
+    font-family: var(--font-base);
+    font-size: 4rem;
+    padding-bottom: 4rem;
+}
+
+.app__findus-context_time
+{
+    font-family: var(--font-base);
+    font-size: 1.5rem;
+}
+
+.my_style
+{
+    padding: 0.8rem 0rem;
+}
+
+@media screen and (max-width:900px) {
+    .media-setup {
+        flex-direction: column
+    }
+}

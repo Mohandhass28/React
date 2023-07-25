@@ -1,0 +1,13 @@
+.app__copyright-end
+{
+    background: var(--color-black);
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+.app__copy-end_center
+{
+    padding: 15px;
+    font-weight: 800;
+}
